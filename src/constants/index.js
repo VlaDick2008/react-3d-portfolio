@@ -235,7 +235,7 @@ const projects = [
       },
     ],
     image: portfolio,
-    source_code_link: 'https://github.com/',
+    source_code_link: 'https://github.com/VlaDick2008/react-3d-portfolio',
   },
   {
     name: 'Trip Guide',
